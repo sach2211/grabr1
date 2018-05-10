@@ -1,0 +1,14 @@
+{
+  "name": "grabr1",
+  "version": "1.0.0",
+  "description": "Confidential",
+  "main": "src/apiCall.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sach2211",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^3.8.3"
+  }
+}
